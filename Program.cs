@@ -76,5 +76,7 @@ class Four : Three
     public void Start_new()
     {
         Console.WriteLine("Hello from start_new four");
+        int n = 0;
+        if(n == 0) Console.WriteLine("n");
     }
 }
